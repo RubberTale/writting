@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "76f566b12bb46006",
+    "type": "split",
+    "children": [
+      {
+        "id": "58fc92ea7ffac560",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14dded2c4ae65a14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "如何设立交易计划.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "如何设立交易计划"
+            }
+          },
+          {
+            "id": "831047f119dbb76b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "如何开始交易？.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "如何开始交易？"
+            }
+          },
+          {
+            "id": "57a877b5c961487b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "如何减肥？.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "如何减肥？"
+            }
+          },
+          {
+            "id": "5ddcc7afc58e3644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "如何开始交易？.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "如何开始交易？"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de449743460f3af8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fad966868fc59242",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b59d9aa545199697",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e49854a41ceb8e65",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9c2f17f37d4ea254",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41953dc508ca39c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2aadd9ee208c319",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40a08c4516afa800",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "如何开始交易？.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "如何开始交易？ 的反向链接列表"
+            }
+          },
+          {
+            "id": "70816a47eda7d5e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "如何开始交易？.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "如何开始交易？ 的出链列表"
+            }
+          },
+          {
+            "id": "7cbfb3324157a771",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "dfcda3dc51d5b1f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "如何开始交易？.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "如何开始交易？ 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5ddcc7afc58e3644",
+  "lastOpenFiles": [
+    "如何减肥？.md",
+    "如何设立交易计划.md",
+    "如何开始交易？.md",
+    "人工智能大发展时代的交易会发生怎样的演变.md",
+    "交易策略设计.md",
+    "如何改进交易系统.md",
+    "如何才能找到确定性高的策略.md",
+    "人工智能的起源、发展和未来.md",
+    "量化交易怎么来？.md",
+    "预测未来价格.md",
+    "AI是什么？.md",
+    "为什么要设立严格的交易计划.md",
+    "数字货币.md",
+    "设计一个会自我改进的交易策略.md",
+    "如何止损.md",
+    "如何使用ai.md",
+    "复盘.md",
+    "不同类型的交易策略比较.md",
+    "安装程序列表.md"
+  ]
+}
